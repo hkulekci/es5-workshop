@@ -4,8 +4,8 @@
 
 ### Let's Start
  
- - [Prepare Your Environment](blob/master/PrepareYourEnvironment.md)
- - [Let's Look the Data](blob/master/data/sample.csv)
- - [Prepare Your Index](blob/master/PrepareYourIndex.md)
- - [Create A Pipeline](blob/master/CreateAPipeline.md)
- - [Populate Sample Data](blob/master/PopulateSampleData.md)
+ - [Prepare Your Environment](PrepareYourEnvironment.md)
+ - [Let's Look the Data](data/sample.csv)
+ - [Prepare Your Index](PrepareYourIndex.md)
+ - [Create A Pipeline](CreateAPipeline.md)
+ - [Populate Sample Data](PopulateSampleData.md)
